@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"main.json#startfrommap"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -138,7 +138,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":11,
+ "nextlayerid":12,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "properties":[
