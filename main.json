@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#startfrommain"
+                 "value":"\/escaperoom\/map.json#startfrommain"
                 }],
          "type":"tilelayer",
          "visible":true,
