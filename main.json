@@ -46,7 +46,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"map.json#startfrommain"
                 }],
@@ -64,7 +64,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"impfen.json#startfrommain"
                 }],
