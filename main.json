@@ -64,9 +64,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"impfen.json#startfrommain"
+                 "value":"impfen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
