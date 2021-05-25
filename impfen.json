@@ -44,6 +44,12 @@
          "id":15,
          "name":"exittomain",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"main.json#startfromimpfen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
