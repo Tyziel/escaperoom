@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#startfromimpfen"
+                 "value":"vr.json#startfrommedien"
                 }],
          "type":"tilelayer",
          "visible":true,
