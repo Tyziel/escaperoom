@@ -80,6 +80,12 @@
          "id":19,
          "name":"jtisi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"escaperoommain\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
