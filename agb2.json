@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"algorithmen.json#startfromagb"
+                 "value":"algorithmen2.json#startfromagb"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"vr.json#startfromagb"
+                 "value":"vr2.json#startfromagb"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -84,7 +84,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"escaperoomagb"
+                 "value":"escaperoomagb2"
                 }],
          "type":"tilelayer",
          "visible":true,

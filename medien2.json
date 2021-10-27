@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"vr.json#startfrommedien"
+                 "value":"vr2.json#startfrommedien"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#startfrommedien"
+                 "value":"main2.json#startfrommedien"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -66,7 +66,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"escaperoommedien"
+                 "value":"escaperoommedien2"
                 }],
          "type":"tilelayer",
          "visible":true,
